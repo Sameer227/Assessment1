@@ -1,0 +1,601 @@
+[{
+        "id": 1,
+        "movie_name": "Return to Sender",
+        "rating": 2,
+        "release_date": "2026-07-26"
+    },
+    {
+        "id": 2,
+        "movie_name": "Blair Witch Project, The",
+        "rating": 1,
+        "release_date": "2021-08-11"
+    },
+    {
+        "id": 3,
+        "movie_name": "Half Past Dead",
+        "rating": 10,
+        "release_date": "2021-11-10"
+    },
+    {
+        "id": 4,
+        "movie_name": "Virginia City",
+        "rating": 2,
+        "release_date": "2028-08-16"
+    },
+    {
+        "id": 5,
+        "movie_name": "Léon: The Professional (a.k.a. The Professional) (Léon)",
+        "rating": 7,
+        "release_date": "2030-01-17"
+    },
+    {
+        "id": 6,
+        "movie_name": "Millions Game, The (Das Millionenspiel)",
+        "rating": 6,
+        "release_date": "2028-05-11"
+    },
+    {
+        "id": 7,
+        "movie_name": "Jesse Stone: Night Passage",
+        "rating": 6,
+        "release_date": "2023-12-30"
+    },
+    {
+        "id": 8,
+        "movie_name": "Dead Ringers",
+        "rating": 4,
+        "release_date": "2025-03-01"
+    },
+    {
+        "id": 9,
+        "movie_name": "3 Worlds of Gulliver, The",
+        "rating": 2,
+        "release_date": "2028-06-24"
+    },
+    {
+        "id": 10,
+        "movie_name": "Chronic Town",
+        "rating": 3,
+        "release_date": "2025-09-18"
+    },
+    {
+        "id": 11,
+        "movie_name": "Purple Ball, The (Lilovyy shar)",
+        "rating": 4,
+        "release_date": "2028-10-25"
+    },
+    {
+        "id": 12,
+        "movie_name": "Omagh",
+        "rating": 10,
+        "release_date": "2023-12-24"
+    },
+    {
+        "id": 13,
+        "movie_name": "Rose Seller, The (La vendedora de rosas)",
+        "rating": 6,
+        "release_date": "2021-06-30"
+    },
+    {
+        "id": 14,
+        "movie_name": "Besotted",
+        "rating": 5,
+        "release_date": "2022-08-18"
+    },
+    {
+        "id": 15,
+        "movie_name": "Birthday Girl",
+        "rating": 8,
+        "release_date": "2026-10-28"
+    },
+    {
+        "id": 16,
+        "movie_name": "49 Up",
+        "rating": 1,
+        "release_date": "2021-10-11"
+    },
+    {
+        "id": 17,
+        "movie_name": "Murder Ahoy",
+        "rating": 3,
+        "release_date": "2027-11-12"
+    },
+    {
+        "id": 18,
+        "movie_name": "Keeper, The",
+        "rating": 2,
+        "release_date": "2030-06-18"
+    },
+    {
+        "id": 19,
+        "movie_name": "Food, Inc.",
+        "rating": 5,
+        "release_date": "2022-09-20"
+    },
+    {
+        "id": 20,
+        "movie_name": "Kickboxer 3: The Art of War (Kickboxer III: The Art of War)",
+        "rating": 2,
+        "release_date": "2022-05-18"
+    },
+    {
+        "id": 21,
+        "movie_name": "Land of the Blind",
+        "rating": 9,
+        "release_date": "2022-04-17"
+    },
+    {
+        "id": 22,
+        "movie_name": "7 Days (Les 7 jours du talion)",
+        "rating": 2,
+        "release_date": "2027-01-04"
+    },
+    {
+        "id": 23,
+        "movie_name": "Coming Home (Gui lai)",
+        "rating": 3,
+        "release_date": "2023-03-30"
+    },
+    {
+        "id": 24,
+        "movie_name": "Eminem AKA ",
+        "rating": 5,
+        "release_date": "2027-11-02"
+    },
+    {
+        "id": 25,
+        "movie_name": "Black & White & Sex",
+        "rating": 10,
+        "release_date": "2023-07-01"
+    },
+    {
+        "id": 26,
+        "movie_name": "Marriage of Maria Braun, The (Ehe der Maria Braun, Die)",
+        "rating": 1,
+        "release_date": "2028-12-12"
+    },
+    {
+        "id": 27,
+        "movie_name": "Trapped in Paradise",
+        "rating": 6,
+        "release_date": "2028-09-05"
+    },
+    {
+        "id": 28,
+        "movie_name": "Two Days",
+        "rating": 5,
+        "release_date": "2023-11-06"
+    },
+    {
+        "id": 29,
+        "movie_name": "Hunger, The",
+        "rating": 9,
+        "release_date": "2024-03-11"
+    },
+    {
+        "id": 30,
+        "movie_name": "Truth About Cats & Dogs, The",
+        "rating": 3,
+        "release_date": "2026-10-06"
+    },
+    {
+        "id": 31,
+        "movie_name": "Justice League: Doom ",
+        "rating": 4,
+        "release_date": "2029-04-16"
+    },
+    {
+        "id": 32,
+        "movie_name": "Tusk",
+        "rating": 10,
+        "release_date": "2021-04-11"
+    },
+    {
+        "id": 33,
+        "movie_name": "Megaforce",
+        "rating": 7,
+        "release_date": "2029-10-28"
+    },
+    {
+        "id": 34,
+        "movie_name": "Elfie Hopkins: Cannibal Hunter",
+        "rating": 2,
+        "release_date": "2022-04-26"
+    },
+    {
+        "id": 35,
+        "movie_name": "Heirloom, The (Zhai Ban)",
+        "rating": 9,
+        "release_date": "2022-10-26"
+    },
+    {
+        "id": 36,
+        "movie_name": "Cypher",
+        "rating": 5,
+        "release_date": "2026-02-10"
+    },
+    {
+        "id": 37,
+        "movie_name": "Fuse (Gori vatra)",
+        "rating": 9,
+        "release_date": "2020-12-31"
+    },
+    {
+        "id": 38,
+        "movie_name": "Don't Eat the Pictures: Sesame Street at the Metropolitan Museum of Art",
+        "rating": 10,
+        "release_date": "2030-01-31"
+    },
+    {
+        "id": 39,
+        "movie_name": "Memorial Day",
+        "rating": 8,
+        "release_date": "2029-12-05"
+    },
+    {
+        "id": 40,
+        "movie_name": "Circle, The",
+        "rating": 6,
+        "release_date": "2023-10-12"
+    },
+    {
+        "id": 41,
+        "movie_name": "Fort Bliss",
+        "rating": 3,
+        "release_date": "2030-08-15"
+    },
+    {
+        "id": 42,
+        "movie_name": "Three Brothers 2, The (Les trois frères, le retour)",
+        "rating": 4,
+        "release_date": "2027-03-25"
+    },
+    {
+        "id": 43,
+        "movie_name": "High Cost of Living, The",
+        "rating": 9,
+        "release_date": "2023-06-02"
+    },
+    {
+        "id": 44,
+        "movie_name": "Adjustment Bureau, The",
+        "rating": 4,
+        "release_date": "2030-07-05"
+    },
+    {
+        "id": 45,
+        "movie_name": "Message in a Bottle",
+        "rating": 6,
+        "release_date": "2023-10-28"
+    },
+    {
+        "id": 46,
+        "movie_name": "Unspeakable Act, The",
+        "rating": 6,
+        "release_date": "2030-06-22"
+    },
+    {
+        "id": 47,
+        "movie_name": "Neighbouring Sounds (O som ao redor)",
+        "rating": 6,
+        "release_date": "2027-09-19"
+    },
+    {
+        "id": 48,
+        "movie_name": "Joy Luck Club, The",
+        "rating": 7,
+        "release_date": "2022-07-09"
+    },
+    {
+        "id": 49,
+        "movie_name": "Vääpeli Körmy ja kahtesti laukeava",
+        "rating": 1,
+        "release_date": "2023-04-26"
+    },
+    {
+        "id": 50,
+        "movie_name": "Tale of Two Cities, A",
+        "rating": 8,
+        "release_date": "2025-09-07"
+    },
+    {
+        "id": 51,
+        "movie_name": "A Night in the Show",
+        "rating": 6,
+        "release_date": "2030-01-06"
+    },
+    {
+        "id": 52,
+        "movie_name": "Project Wild Thing",
+        "rating": 3,
+        "release_date": "2028-06-03"
+    },
+    {
+        "id": 53,
+        "movie_name": "The World Forgotten",
+        "rating": 6,
+        "release_date": "2022-09-11"
+    },
+    {
+        "id": 54,
+        "movie_name": "Night Will Fall",
+        "rating": 2,
+        "release_date": "2030-05-17"
+    },
+    {
+        "id": 55,
+        "movie_name": "Welcome to the Rileys",
+        "rating": 10,
+        "release_date": "2022-05-15"
+    },
+    {
+        "id": 56,
+        "movie_name": "Splinterheads",
+        "rating": 9,
+        "release_date": "2023-11-02"
+    },
+    {
+        "id": 57,
+        "movie_name": "Alien Escape",
+        "rating": 8,
+        "release_date": "2022-04-12"
+    },
+    {
+        "id": 58,
+        "movie_name": "Far Cry",
+        "rating": 9,
+        "release_date": "2029-07-18"
+    },
+    {
+        "id": 59,
+        "movie_name": "Seasoning House, The",
+        "rating": 4,
+        "release_date": "2022-09-20"
+    },
+    {
+        "id": 60,
+        "movie_name": "Teenage Mutant Ninja Turtles: Turtles Forever",
+        "rating": 7,
+        "release_date": "2029-02-21"
+    },
+    {
+        "id": 61,
+        "movie_name": "Baby Take a Bow",
+        "rating": 5,
+        "release_date": "2027-01-23"
+    },
+    {
+        "id": 62,
+        "movie_name": "Bikini Summer",
+        "rating": 7,
+        "release_date": "2021-04-10"
+    },
+    {
+        "id": 63,
+        "movie_name": "Home Alone 3",
+        "rating": 9,
+        "release_date": "2029-03-02"
+    },
+    {
+        "id": 64,
+        "movie_name": "Four Bags Full",
+        "rating": 5,
+        "release_date": "2021-11-28"
+    },
+    {
+        "id": 65,
+        "movie_name": "Don't Move (Non ti muovere)",
+        "rating": 3,
+        "release_date": "2026-06-03"
+    },
+    {
+        "id": 66,
+        "movie_name": "Edge of Heaven, The (Auf der anderen Seite)",
+        "rating": 2,
+        "release_date": "2023-06-30"
+    },
+    {
+        "id": 67,
+        "movie_name": "Thing, The",
+        "rating": 9,
+        "release_date": "2026-12-10"
+    },
+    {
+        "id": 68,
+        "movie_name": "Lone Wolf McQuade",
+        "rating": 5,
+        "release_date": "2029-08-18"
+    },
+    {
+        "id": 69,
+        "movie_name": "Momma's Man",
+        "rating": 7,
+        "release_date": "2024-07-25"
+    },
+    {
+        "id": 70,
+        "movie_name": "Pericles on 31st Street",
+        "rating": 10,
+        "release_date": "2023-11-28"
+    },
+    {
+        "id": 71,
+        "movie_name": "Hallelujah I'm a Bum",
+        "rating": 8,
+        "release_date": "2021-04-01"
+    },
+    {
+        "id": 72,
+        "movie_name": "Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka)",
+        "rating": 3,
+        "release_date": "2026-07-03"
+    },
+    {
+        "id": 73,
+        "movie_name": "Why Be Good?",
+        "rating": 2,
+        "release_date": "2024-12-09"
+    },
+    {
+        "id": 74,
+        "movie_name": "Star Trek: The Motion Picture",
+        "rating": 2,
+        "release_date": "2023-07-13"
+    },
+    {
+        "id": 75,
+        "movie_name": "Beach, The",
+        "rating": 7,
+        "release_date": "2029-10-05"
+    },
+    {
+        "id": 76,
+        "movie_name": "Daydream Nation",
+        "rating": 2,
+        "release_date": "2021-04-26"
+    },
+    {
+        "id": 77,
+        "movie_name": "Eyes Without a Face (Yeux sans visage, Les)",
+        "rating": 6,
+        "release_date": "2030-09-10"
+    },
+    {
+        "id": 78,
+        "movie_name": "Company of Wolves, The",
+        "rating": 6,
+        "release_date": "2027-02-28"
+    },
+    {
+        "id": 79,
+        "movie_name": "Mugabe and the White African",
+        "rating": 3,
+        "release_date": "2023-05-22"
+    },
+    {
+        "id": 80,
+        "movie_name": "On the Outs",
+        "rating": 3,
+        "release_date": "2023-04-14"
+    },
+    {
+        "id": 81,
+        "movie_name": "Ichi",
+        "rating": 3,
+        "release_date": "2028-12-01"
+    },
+    {
+        "id": 82,
+        "movie_name": "Shrek the Third",
+        "rating": 5,
+        "release_date": "2021-04-02"
+    },
+    {
+        "id": 83,
+        "movie_name": "Day of the Beast, The (Día de la Bestia, El)",
+        "rating": 6,
+        "release_date": "2021-06-10"
+    },
+    {
+        "id": 84,
+        "movie_name": "Sinbad and the Eye of the Tiger",
+        "rating": 7,
+        "release_date": "2030-09-22"
+    },
+    {
+        "id": 85,
+        "movie_name": "Gacy",
+        "rating": 9,
+        "release_date": "2020-12-19"
+    },
+    {
+        "id": 86,
+        "movie_name": "For Love or Money",
+        "rating": 9,
+        "release_date": "2021-05-29"
+    },
+    {
+        "id": 87,
+        "movie_name": "Of Mice and Men",
+        "rating": 3,
+        "release_date": "2028-06-06"
+    },
+    {
+        "id": 88,
+        "movie_name": "Pocketful of Miracles",
+        "rating": 4,
+        "release_date": "2024-10-05"
+    },
+    {
+        "id": 89,
+        "movie_name": "Dinner Rush",
+        "rating": 4,
+        "release_date": "2025-05-19"
+    },
+    {
+        "id": 90,
+        "movie_name": "Blues Harp",
+        "rating": 4,
+        "release_date": "2027-01-04"
+    },
+    {
+        "id": 91,
+        "movie_name": "The Halloween That Almost Wasn't",
+        "rating": 10,
+        "release_date": "2024-03-21"
+    },
+    {
+        "id": 92,
+        "movie_name": "Beach Blanket Bingo",
+        "rating": 2,
+        "release_date": "2030-06-08"
+    },
+    {
+        "id": 93,
+        "movie_name": "Fun Size",
+        "rating": 5,
+        "release_date": "2026-02-07"
+    },
+    {
+        "id": 94,
+        "movie_name": "Appaloosa",
+        "rating": 5,
+        "release_date": "2022-06-29"
+    },
+    {
+        "id": 95,
+        "movie_name": "Zero Years, The",
+        "rating": 2,
+        "release_date": "2029-07-22"
+    },
+    {
+        "id": 96,
+        "movie_name": "Trip to Bountiful, The",
+        "rating": 4,
+        "release_date": "2027-02-10"
+    },
+    {
+        "id": 97,
+        "movie_name": "Girl in the Cadillac",
+        "rating": 1,
+        "release_date": "2029-04-10"
+    },
+    {
+        "id": 98,
+        "movie_name": "Undefeated",
+        "rating": 8,
+        "release_date": "2021-09-14"
+    },
+    {
+        "id": 99,
+        "movie_name": "The Heart of the World",
+        "rating": 8,
+        "release_date": "2024-05-04"
+    },
+    {
+        "id": 100,
+        "movie_name": "Losing Chase",
+        "rating": 7,
+        "release_date": "2026-08-03"
+    }
+]
